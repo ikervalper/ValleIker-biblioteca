@@ -13,3 +13,6 @@ Aplicacion en Java para gestionar los prestamos de una biblioteca. Permite regis
 ## Autor
 ApellidoNombre
 
+
+Version: 1.1
+
